@@ -118,7 +118,7 @@ class MysqlTopicRepository implements TopicRepositoryInterface {
 | B AI适配器 | `modules/Ai/` | R5-R6 | ✅ |
 | C 分发适配器 | `modules/Distribution/` | R7-R8 | ✅ |
 | D 数据适配器 | `modules/Analytics/` | R9-R11 | ✅ |
-| E 变现适配器 | `modules/Monetize/` | R12-R13 (P5) |
+| E 变现适配器 | `modules/Monetize/` | R12-R13 | ✅ |
 
 ## 数据库约定
 
